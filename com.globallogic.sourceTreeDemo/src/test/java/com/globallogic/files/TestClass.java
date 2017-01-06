@@ -22,5 +22,9 @@ public class TestClass {
 	public void method3(){
 		System.out.println("method 3");
 	}
+	public void method6()
+	{
+		System.out.println("Method 6");
+	}
 
 }
