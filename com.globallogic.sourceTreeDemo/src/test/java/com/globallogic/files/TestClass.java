@@ -13,5 +13,9 @@ public class TestClass {
 	public void method2(String var2){
 		this.Variable2=var2;
 	}
+	
+	public void method3(){
+		System.out.println("method 3");
+	}
 
 }
