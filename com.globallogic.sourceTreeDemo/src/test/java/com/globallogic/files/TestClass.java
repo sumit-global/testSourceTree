@@ -12,6 +12,11 @@ public class TestClass {
 	
 	public void method2(String var2){
 		this.Variable2=var2;
+		System.out.println("abc");
+	}
+	
+	public void mehtod4(){
+		System.out.println("metjod 4");
 	}
 
 }
