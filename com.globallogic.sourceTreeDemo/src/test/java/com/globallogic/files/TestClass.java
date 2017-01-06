@@ -12,11 +12,11 @@ public class TestClass {
 	
 	public void method2(String var2){
 		this.Variable2=var2;
-		System.out.println("abc");
+		System.out.println("Variable2");
 	}
 	
 	public void mehtod4(){
-		System.out.println("metjod 4");
+		System.out.println("method 4");
 	}
 	
 	public void method3(){
@@ -30,4 +30,9 @@ public class TestClass {
 	public void method5(){
 		System.out.println("method5");
 	}
+	
+	public void method12(){
+		System.out.println("method 8");
+	}
+	
 }
